@@ -24,7 +24,7 @@
 </pre>
 
 ## About Kitty
-Kitty can encrypt or even decrypt your texts in a very cute way.
+Kitty can encrypt or even decrypt your texts in a very cute way.</br>
 Kitty love you :D
 
 ## Install and Run
