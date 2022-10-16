@@ -35,6 +35,6 @@ go run kitty.go
 ````
 
 ## Terminal Tested:
-> Command Prompt(CMD)
-> Bash
+- Command Prompt(CMD)
+- Bash
 
