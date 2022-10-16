@@ -36,5 +36,6 @@ go run kitty.go
 
 ## Terminal Tested:
 - Command Prompt(CMD)
-- Bash
+- Bash ( kali linux)
+- Termux
 
