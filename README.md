@@ -23,6 +23,10 @@
 
 </pre>
 
+## About Kitty
+Kitty can encrypt or even decrypt your texts in a very cute way.
+Kitty love you :D
+
 ## Install and Run
 ```bash
 git clone https://github.com/theFr3Y/Kitty.git
